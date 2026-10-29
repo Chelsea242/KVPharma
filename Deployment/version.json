@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "product": "Pharma",
+  "publisher": "Pharma Project",
+  "runtime": "win-x64",
+  "selfContained": true
+}

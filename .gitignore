@@ -1,0 +1,23 @@
+# Builds et caches .NET
+bin/
+obj/
+.vs/
+.dotnet/
+.dotnetcli/
+
+# Bases SQLite et journaux locaux
+*.db
+*.db-shm
+*.db-wal
+*.log
+
+# Livrables générés localement
+Livrable/
+Deployment/publish/
+Deployment/portable/
+Deployment/installer/
+
+# Fichiers système
+Thumbs.db
+*.user
+*.suo
